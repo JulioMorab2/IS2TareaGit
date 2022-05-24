@@ -8,3 +8,10 @@ int suma (a,b){
 int main(){
     suma(2,3);
 }
+
+int resta (a,b)
+{
+    return resta;
+}
+
+/*Version de Julio Mora */
